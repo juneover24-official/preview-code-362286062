@@ -1,7 +1,7 @@
 {
   "qq_number": "362286062",
   "group_number": "813745484",
-  "updated_at": "2026-09-20T05:30:08+00:00",
+  "updated_at": "2026-09-20T05:30:24+00:00",
   "skins": [
     {
       "name": "地球贴纸27",
@@ -493,18 +493,18 @@
       "file_id": "03f51fc4e8646fcc276e3311b2ced198"
     },
     {
-      "name": "杳杳贴纸［保底20］会专QQ362286062二传替我挡灾",
-      "file": "杳杳保底20彩底.bdi",
-      "thumb": "杳杳保底20彩底.bdi_py_26_light_thumb.png",
-      "full": "杳杳保底20彩底.bdi_py_26_light_thumb.png",
-      "file_id": "37112c4cdf255fd8c39a54c8f530cf0f"
-    },
-    {
       "name": "杳杳贴纸［保底17］会专QQ362286062二传替我挡灾",
       "file": "杳杳保底17.bdi",
       "thumb": "杳杳保底17.bdi_py_26_light_thumb.png",
       "full": "杳杳保底17.bdi_py_26_light_thumb.png",
       "file_id": "1f9cb12001622a9699f81366de2f2205"
+    },
+    {
+      "name": "杳杳贴纸［保底20］会专QQ362286062二传替我挡灾",
+      "file": "杳杳保底20彩底.bdi",
+      "thumb": "杳杳保底20彩底.bdi_py_26_light_thumb.png",
+      "full": "杳杳保底20彩底.bdi_py_26_light_thumb.png",
+      "file_id": "37112c4cdf255fd8c39a54c8f530cf0f"
     }
   ]
 }
