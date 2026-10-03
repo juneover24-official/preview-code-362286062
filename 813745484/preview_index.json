@@ -1,7 +1,7 @@
 {
   "qq_number": "362286062",
   "group_number": "813745484",
-  "updated_at": "2026-10-03T15:35:02+00:00",
+  "updated_at": "2026-10-03T15:35:14+00:00",
   "skins": [
     {
       "name": "地球贴纸27",
@@ -1247,6 +1247,13 @@
       "thumb": "保底81-闷融.bdi_py_26_light_thumb.png",
       "full": "保底81-闷融.bdi_py_26_light_thumb.png",
       "file_id": "1281b0574d51438e9ee6d0664bfb2593"
+    },
+    {
+      "name": "杳杳贴纸永会［保底81-闷］QQ362286062",
+      "file": "保底81-闷融.bds",
+      "thumb": "保底81-闷融.bds_py_26_light_thumb.png",
+      "full": "保底81-闷融.bds_py_26_light_thumb.png",
+      "file_id": "52d3f9e9f6dfc0a51a4a82575d1ed83c"
     }
   ]
 }
