@@ -1,7 +1,7 @@
 {
   "qq_number": "362286062",
   "group_number": "642938220",
-  "updated_at": "2026-10-07T06:11:11+00:00",
+  "updated_at": "2026-10-07T06:11:31+00:00",
   "skins": [
     {
       "name": "2141杳杳［古早兔熊］会专QQ362286092二传替我挡灾",
@@ -3072,6 +3072,13 @@
       "thumb": "保底84-闷融.bdi_py_26_light_thumb.png",
       "full": "保底84-闷融.bdi_py_26_light_thumb.png",
       "file_id": "3f846893de6838d6afd4567cd6423053"
+    },
+    {
+      "name": "杳杳全彩年会［保底84-闷］QQ362286062",
+      "file": "保底84-闷彩.bdi",
+      "thumb": "保底84-闷彩.bdi_py_26_light_thumb.png",
+      "full": "保底84-闷彩.bdi_py_26_light_thumb.png",
+      "file_id": "9e75961a6e5d4e532daf0f3159553d41"
     }
   ]
 }
