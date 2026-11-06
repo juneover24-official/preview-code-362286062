@@ -1,7 +1,7 @@
 {
   "qq_number": "362286062",
   "group_number": "642938220",
-  "updated_at": "2026-11-06T15:19:24+00:00",
+  "updated_at": "2026-11-06T15:26:00+00:00",
   "skins": [
     {
       "name": "2141杳杳［古早兔熊］会专QQ362286092二传替我挡灾",
@@ -98,12 +98,6 @@
       "file": "2139杳杳震惊熊猫会专.bdi",
       "thumb": "2139杳杳震惊熊猫会专.bdi_py_26_default_thumb.png",
       "full": "2139杳杳震惊熊猫会专.bdi_py_26_default.png"
-    },
-    {
-      "name": "2133杳杳［兔熊日记］会专QQ362286062二传替我挡灾",
-      "file": "2133杳杳兔熊日记会专.bdi",
-      "thumb": "2133杳杳兔熊日记会专.bdi_py_26_default_thumb.png",
-      "full": "2133杳杳兔熊日记会专.bdi_py_26_default.png"
     },
     {
       "name": "杳杳全彩年会［保底22-脆］QQ362286062二传替我挡灾",
@@ -3324,6 +3318,13 @@
       "thumb": "保底87-闷彩.bdi_py_26_light_thumb.png",
       "full": "保底87-闷彩.bdi_py_26_light_thumb.png",
       "file_id": "fe8de4914b58b9c9aca5c360c35fc6bd"
+    },
+    {
+      "name": "2133杳杳［兔熊日记］会专QQ362286062二传替我挡灾",
+      "file": "2133杳杳兔熊日记会专.bdi",
+      "thumb": "2133杳杳兔熊日记会专.bdi_py_26_light_thumb.png",
+      "full": "2133杳杳兔熊日记会专.bdi_py_26_light_thumb.png",
+      "file_id": "dd8552cf4a23f9ebe3950cd19e58e8f8"
     }
   ]
 }
