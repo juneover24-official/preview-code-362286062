@@ -1,7 +1,7 @@
 {
   "qq_number": "362286062",
   "group_number": "578343598",
-  "updated_at": "2026-11-09T11:26:22+00:00",
+  "updated_at": "2026-11-09T14:40:29+00:00",
   "skins": [
     {
       "name": "2141杳杳［古早兔熊］会专QQ362286092二传替我挡灾",
@@ -2162,6 +2162,13 @@
       "thumb": "杳杳2264会专.bds_py_26_light_thumb.png",
       "full": "杳杳2264会专.bds_py_26_light_thumb.png",
       "file_id": "6036d941a9e2c08eee8693833cf670d3"
+    },
+    {
+      "name": "杳杳［2236］会专QQ362286062二传替我挡灾",
+      "file": "杳杳2236会专.bdi",
+      "thumb": "杳杳2236会专.bdi_py_26_light_thumb.png",
+      "full": "杳杳2236会专.bdi_py_26_light_thumb.png",
+      "file_id": "8635fb5bad86003c5b7c83d8fe0d2bff"
     }
   ]
 }
